@@ -1,0 +1,17 @@
+/* Header */
+.header .navbar .container .logo img{
+  width: 20px;
+}
+.header .navbar .container .logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.header .navbar .container .dropdown img{
+    width: 25px;
+}
+
+.sci{
+color: wheat;
+}
